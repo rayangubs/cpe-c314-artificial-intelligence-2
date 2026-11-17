@@ -68,4 +68,3 @@ Activities marked "(with Villarde)" in the filenames were completed in pairs.
 ## Notes
 
 - All work is for academic purposes under CPE C314 – Artificial Intelligence 2.
-- The Lab 9 NER model (`Taglish_Scam_NER.ipynb`) is referenced by the RAG notebook but is not included in this repository.
